@@ -99,7 +99,8 @@
 email : mytokki0323@gmail.com
 
 💬Contect me!  
-[![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://nyeongha.tistory.com/)
+[![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://nyeongha.tistory.com/)  
+
 email : mytokki0323@gmail.com
 
 
