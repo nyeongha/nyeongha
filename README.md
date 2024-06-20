@@ -89,11 +89,13 @@
 
 ![github states](https://github-readme-stats.vercel.app/api?username=nyeongha&show_icons=true&theme=radical)
 
-🌱 My baekjoon   
+🌱 My baekjoon tier
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mytokki0323)](https://solved.ac/백준아이디/)
 
 
-🌱 My Blog  
+🌱 My Blog 
+
 [![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://nyeongha.tistory.com/) 
 
 🌱 Visitors   
