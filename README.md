@@ -67,9 +67,6 @@
   <summary><b>💻 Projects</b></summary>
   <ul>
     <li>
-      <a href= "https://github.com/nyeongha/quenswer">
-      quenswer
-        </a>
     </li>
   </ul>
 </details>
